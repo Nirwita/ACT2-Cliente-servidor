@@ -1,0 +1,46 @@
+/* Estilo general de la página */
+body {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+/* Card del formulario */
+.card {
+  background-color: #1e1e1e;
+  border: 1px solid #333333;
+}
+
+/* Título */
+h1 {
+  color: #ffffff;
+}
+
+/* Texto */
+p {
+  color: #bbbbbb;
+}
+
+/* Etiquetas */
+.form-label {
+  color: #dddddd;
+}
+
+/* Campos del formulario */
+.form-control {
+  background-color: #292929;
+  color: #ffffff;
+  border: 1px solid #444444;
+}
+
+/* Campos cuando están seleccionados */
+.form-control:focus {
+  background-color: #292929;
+  color: #ffffff;
+  border-color: #777777;
+  box-shadow: none;
+}
+
+/* Texto de ejemplo */
+.form-control::placeholder {
+  color: #888888;
+}

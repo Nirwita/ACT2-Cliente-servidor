@@ -1,0 +1,7 @@
+Apache/PHP se ejecuta en el servidor.
+Apache recibe la petición y PHP procesa el código antes de enviar el resultado al navegador.
+
+El navegador recibe ese resultado y ejecuta el HTML, CSS y JavaScript.
+En nuestro caso, JavaScript se encarga de la interacción y validación del formulario.
+
+En resumen: PHP se ejecuta en el servidor y HTML, CSS y JavaScript se ejecutan en el navegador.
